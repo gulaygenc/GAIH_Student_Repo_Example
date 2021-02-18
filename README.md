@@ -1,7 +1,7 @@
 # GAIH Student
 ![](img/logo.png)
 
-**Course Date:** 15-19 February
+**Course Date:** 15-19 February 
 **Name:** Gülay 
 **Surname:** Genç  
 **Email:** gulaygenc08@gmail.com  
