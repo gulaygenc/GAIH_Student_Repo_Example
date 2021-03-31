@@ -11,12 +11,10 @@
   
 
 ## Project Name
-Description...
+
 
 ## Requirements
-Some python libraries
 
----
 
 ### Certification
 ![](img/certificate.png)
